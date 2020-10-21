@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Pengfei Xu Curriculum Vitae 
 
-You can use the [editor on GitHub](https://github.com/xupengf1992/xupengf1992.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+|  Highly self-motivated Ph.D. candidate with demonstrated research expertise in photonic devices simulation and fabrication, Optical & RF testing and programming.  |
+| --- | 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xupengf1992/xupengf1992.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Optical and EM wave Simulations | • Rich experience in optical and Electromagnetic(EM) waves simulation, using solvers including Finite-Difference Time-Domain (FDTD), Eigenmode Expansion (EME) Finite element method (FEM). Bloch-mode analysis, photonic crystal and phononic crystal, etc. <br> • Optimization methods: Genetic algorithm, Back Propagation Neuron Network, Adjoint Method, etc.  |
+| -- | -- | 
+| 2 |  |
+|  |  |  
+|  |  |  
