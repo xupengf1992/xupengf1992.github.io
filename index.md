@@ -28,11 +28,11 @@ Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_P
 
 ## Research Project Participations
 
-1.Peking University. National Natural Science Foundation of China, "Silicon Photonic Chip System for Ultra-high-speed Matrix Multiplication" 62035001, 2021-2025.
+1. Peking University. National Natural Science Foundation of China, "Silicon Photonic Chip System for Ultra-high-speed Matrix Multiplication" 62035001, 2021-2025.
 
-2.Sun Yat-sen University. The National Key Research and Development Program of China " Research on High Performance Passive Optoelectronic Materials and Devices" 2016YFB0402503, 2016-2019.
+2. Sun Yat-sen University. The National Key Research and Development Program of China " Research on High Performance Passive Optoelectronic Materials and Devices" 2016YFB0402503, 2016-2019.
 
-3.Sun Yat-sen University. National Basic Research Program of China "Fundamental Research on Microwave Photonic Devices and Integrated Systems for Broadband Ubiquitous Access" 2012CB315700, 2012-2017.
+3. Sun Yat-sen University. National Basic Research Program of China "Fundamental Research on Microwave Photonic Devices and Integrated Systems for Broadband Ubiquitous Access" 2012CB315700, 2012-2017.
 
 ## Education 
 
