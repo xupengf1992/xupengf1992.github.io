@@ -35,19 +35,19 @@ Homepage: <u>xupengf1992.github.io</u>
 
 ## Education 
 
-2019.7~2021.12  
+2019.7 - 2021.12  
 - Peking University, Postdoctoral Fellow
 - Silicon Photonic Computing System Architecture
 - Optical Transceivers
 - Advisor: Prof. Zhiping Zhou 
 
-2014.9~2019.6  
+2014.9 - 2019.6  
 - Sun Yat-sen University, Ph.D.
 - Computational Photonic Devices Designs
 - InP/InGaAs Photodetectors, Measurement Automation
 - Advisor: Prof. Siyuan Yu 
 
-2010.9~2014.6  
+2010.9 - 2014.6  
 - Sun Yat-sen University, B.S.
 - Major: Material Physics
 
