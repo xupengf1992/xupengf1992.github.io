@@ -40,13 +40,13 @@ Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_P
 - Peking University, Postdoctoral Fellow
 - Silicon Photonic Computing System Architecture
 - Optical Transceivers
-Advisor: Prof. Zhiping Zhou 
+- Advisor: Prof. Zhiping Zhou 
 
 2014.9~2019.6  
 - Sun Yat-sen University, Ph.D.
 - Computational Photonic Devices Designs
 - InP/InGaAs Photodetectors, Measurement Automation
-Advisor: Prof. Siyuan Yu 
+- Advisor: Prof. Siyuan Yu 
 
 2010.9~2014.6  
 - Sun Yat-sen University, B.S.
