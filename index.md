@@ -1,6 +1,7 @@
 ## Pengfei Xu Curriculum Vitae 
 
 xupengf(at)pku.edu.cn
+
 Birth Date 1992.11.11
 
 Homepage: xupengf1992.github.io
@@ -18,11 +19,24 @@ Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_P
 
 |Research Field| • Silicon Photonic Computing System Architectures <br>• High Speed Optical Transceivers <br>• Computational Design for Photonic Devices• High Speed InP/InGaAs Photodetectors|
 | :-: | :-- |
+|||
+
 |Silicon Photonic System Design with EDA Tools|• Photonic Matrix Computing Chip Design. <br>• High Speed Optical Transceiver Chip Design <br>• Silicon photonic Chip Layout Design with Foundry PDK. <br>• Luceda/Interconnects for Circuit-level Simulations.|
+| :-: | :-- |
+|||
+
 |Optical/RF Wave Simulations|• Maxwell's Equation Solvers: Finite-Difference Time-Domain (FDTD), Eigenmode Expansion (EME), Finite Element Method (FEM). <br>• Bloch-mode Analysis and Photonic Crystals.<br>• Optimization Packages: Genetic Algorithm, Artificial Neuron Network, Adjoint Method, Simulated Annealing, etc.|
+| :-: | :-- |
+|||
+
 |Computer and Programming |• Measurement Automation: SCPI Programming via VISA Interface in Python, MATLAB and LabVIEW Environments. <br>• Commercial Software: LaTeX, Adobe Series, MATLAB, Lumerical, Mathematica, ANSYS and COMSOL.<br>• Artificial Intelligence: TensorFlow, MXNET Framework in Python Virtual Environments|
 |Photonic Chip Fabrication and Testing  |• Cleanroom Instruments: SEM, EBL, ICP-CVD, RIE, EBE, etc. <br>• Optical & RF Testing: Oscilloscope, Network Analyzer, Spectrum Analyzer,  Probe Station, etc.|
+| :-: | :-- |
+|||
+
 |Language|• English, Mandarin, Cantonese, Japanese.|
+| :-: | :-- |
+|||
 
     
 
