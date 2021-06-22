@@ -1,18 +1,21 @@
 ## Pengfei Xu Curriculum Vitae 
 
 xupengf(at)pku.edu.cn
+
 Birth Date 1992.11.11
 
 
 Homepage:&nbsp; xupengf1992.github.io
+
 Google Scholar:&nbsp; https://scholar.google.co.jp/citations?user=HXASs5oAAAAJ&nbsp; 
+
 Researchgate:&nbsp; https://www.researchgate.net/scientific-contributions/2071547977_Pengfei_Xu&nbsp; 
 
 ## Profile 
 
 | Pengfei Xu, Postdoctoral Fellow in Peking University, is a highly self-motivated researcher with demonstrated research expertise in silicon photonic computing system architectures; high-speed optical transceiver chips; optimization algorithm and programming; photonic and optoelectronic device simulation, fabrication and testing.    |
 | :-- |
-
+||
 
 |Research Field| • Silicon Photonic Computing System Architectures <br>• High Speed Optical Transceivers <br>• Computational Design for Photonic Devices• High Speed InP/InGaAs Photodetectors  |
 | :-: | :-- |
@@ -27,25 +30,23 @@ Researchgate:&nbsp; https://www.researchgate.net/scientific-contributions/207154
 ## Research Project Participations
 
 1.Peking University. National Natural Science Foundation of China, ldquo;Silicon Photonic Chip System for Ultra-high-speed Matrix Multiplicationrdquo; 62035001, 2021-2025.
-
 2.Sun Yat-sen University. The National Key Research and Development Program of China ldquo;Research on High Performance Passive Optoelectronic Materials and Devicesrdquo; 2016YFB0402503, 2016-2019.
-
 3.Sun Yat-sen University. National Basic Research Program of China ldquo;Fundamental Research on Microwave Photonic Devices and Integrated Systems for Broadband Ubiquitous Accessrdquo; 2012CB315700, 2012-2017.
 
 ## Education 
 
-2019.7 ndash; 2021.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peking University, Postdoctoral Fellow
+2019.7~2021.12 Peking University, Postdoctoral Fellow
 - Silicon Photonic Computing System Architecture
 - Optical Transceivers
 Advisor: Prof. Zhiping Zhou 
 
-2014.9 ndash; 2019.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sun Yat-sen University, Ph.D.
+2014.9~2019.6 Sun Yat-sen University, Ph.D.
 - Computational Photonic Devices Designs
 - InP/InGaAs Photodetectors, Measurement Automation
 Advisor: Prof. Siyuan Yu 
 
-2010.9 ndash; 2014.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sun Yat-sen University, B.S.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Major: Material Physics
+2010.9~2014.6Sun Yat-sen University, B.S.
+- Major: Material Physics
 
 ## Research Experiences
 
