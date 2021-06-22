@@ -1,15 +1,11 @@
 ## Pengfei Xu Curriculum Vitae 
 
 xupengf(at)pku.edu.cn
-
 Birth Date 1992.11.11
 
-
-Homepage:&nbsp; xupengf1992.github.io
-
-Google Scholar:&nbsp; https://scholar.google.co.jp/citations?user=HXASs5oAAAAJ&nbsp; 
-
-Researchgate:&nbsp; https://www.researchgate.net/scientific-contributions/2071547977_Pengfei_Xu&nbsp; 
+Homepage: xupengf1992.github.io
+Google Scholar: https://scholar.google.co.jp/citations?user=HXASs5oAAAAJ&nbsp; 
+Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_Pengfei_Xu&nbsp; 
 
 ## Profile 
 
@@ -35,22 +31,23 @@ Researchgate:&nbsp; https://www.researchgate.net/scientific-contributions/207154
 
 ## Education 
 
-2019.7~2021.12 Peking University, Postdoctoral Fellow
+2019.7~2021.12  Peking University, Postdoctoral Fellow
 - Silicon Photonic Computing System Architecture
 - Optical Transceivers
 Advisor: Prof. Zhiping Zhou 
 
-2014.9~2019.6 Sun Yat-sen University, Ph.D.
+2014.9~2019.6  Sun Yat-sen University, Ph.D.
 - Computational Photonic Devices Designs
 - InP/InGaAs Photodetectors, Measurement Automation
 Advisor: Prof. Siyuan Yu 
 
-2010.9~2014.6Sun Yat-sen University, B.S.
+2010.9~2014.6  Sun Yat-sen University, B.S.
 - Major: Material Physics
 
 ## Research Experiences
 
-** Silicon Photonic Computing System Architecture; Optical Transceivers.**
+**Silicon Photonic Computing System Architecture; Optical Transceivers. 
+
 Peking University, Beijing, P.R. China
 Postdoctoral Fellow, 2019-2021
 
@@ -59,13 +56,15 @@ existing von Neumann architectures bottlenecks in large scale matrix computation
 During the postdoctoral period in Peking University, I assisted the advisor Prof. Zhou for applying the key project of the National Natural Science Foundation of China &quot;Silicon photonic chip system for ultra-high-speed matrix multiplicationrdquo; (approved). And I also proposed a high-precision scheme for unitary matrix-vector multiplication, and published several review articles for discuss and outlook the future of silicon photonic computing.
 In the research of optical transceivers, I participated in the design of high-speed optical transceiver chips, used the EDA tools to build the 400Gb/s DR8/FR8 and 400Gb/s PDM2WDM-QPSK optical transceiver chip layout. And the optical transceiver chips are finally tape-out in a Singapore foundry with 180nm MPW process. 
 
-**Computational Design for Photonic Devices. **
+**Computational Design for Photonic Devices. 
+
 Sun Yat-sen University, Guangzhou, P.R. China
 Ph.D. Candidate, 2016-2019
 
 In photonic integrated circuits and devices, computational design is becoming attractive and trendy, which can design desired high-performance photonic circuits and devices by combining the electromagnetic solvers (like FDTD, EME and FEM) and effective optimization algorithms (like Genetic Algorithm, Artificial Neuron Network and Adjoint Method, etc). During the graduate student period in Sun Yat-sen University, I designed, optimized and demonstrated several novel passive photonic devices with numerical optimization methods, including grating couplers, interlayer coupler, longpass filters. 
 
 **High-speed InP/InGaAs Photodetectors; Measurement Automation. **
+
 Sun Yat-sen University, Guangzhou, P.R. China
 Ph.D. Candidate, 2014-2016
 
