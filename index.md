@@ -54,7 +54,7 @@ Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_P
 
 ## Research Experiences
 
-**Silicon Photonic Computing System Architecture; Optical Transceivers. 
+**Silicon Photonic Computing System Architecture; Optical Transceivers. **
 
 Peking University, Beijing, P.R. China
 Postdoctoral Fellow, 2019-2021
@@ -64,7 +64,7 @@ existing von Neumann architectures bottlenecks in large scale matrix computation
 During the postdoctoral period in Peking University, I assisted the advisor Prof. Zhou for applying the key project of the National Natural Science Foundation of China "Silicon photonic chip system for ultra-high-speed matrix multiplication" (approved). And I also proposed a high-precision scheme for unitary matrix-vector multiplication, and published several review articles for discuss and outlook the future of silicon photonic computing.
 In the research of optical transceivers, I participated in the design of high-speed optical transceiver chips, used the EDA tools to build the 400Gb/s DR8/FR8 and 400Gb/s PDM2WDM-QPSK optical transceiver chip layout. And the optical transceiver chips are finally tape-out in a Singapore foundry with 180nm MPW process. 
 
-**Computational Design for Photonic Devices. 
+**Computational Design for Photonic Devices.** 
 
 Sun Yat-sen University, Guangzhou, P.R. China
 Ph.D. Candidate, 2016-2019
