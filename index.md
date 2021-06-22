@@ -57,7 +57,7 @@ Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_P
 
 - Silicon Photonic Computing System Architecture; Optical Transceivers. 
 
-Peking University, Beijing, P.R. China    Postdoctoral Fellow, 2019-2021
+Peking University, Beijing, P.R. China　　Postdoctoral Fellow, 2019-2021
 
 　　With the continuous increase of data transmission capacity in the big data era, silicon photonics has become one of the mainstream solutions in data centers and telecoms. It also expedites the development of optical computing co-processors, lidars, biosensors, optical gyroscopes and so on.Since electronic processors are meeting their limitations in computing power and energy efficiency, silicon photonics is becoming a promising platform for optical computing, especially in large scale matrix computation. By exploiting the outstanding properties of light, like wideband, high speed, low latency and low power consumption, silicon photonics is a promising alternative for breaking through the existing von Neumann architectures bottlenecks in large scale matrix computations applications, such as artificial neural network, combinational optimization, Fourier transform, compressed sensing, and quantum information processing.
 
@@ -67,13 +67,13 @@ Peking University, Beijing, P.R. China    Postdoctoral Fellow, 2019-2021
 
 - Computational Design for Photonic Devices.
 
-Sun Yat-sen University, Guangzhou, P.R. China    Ph.D. Candidate, 2016-2019
+Sun Yat-sen University, Guangzhou, P.R. China　　Ph.D. Candidate, 2016-2019
 
 　　In photonic integrated circuits and devices, computational design is becoming attractive and trendy, which can design desired high-performance photonic circuits and devices by combining the electromagnetic solvers (like FDTD, EME and FEM) and effective optimization algorithms (like Genetic Algorithm, Artificial Neuron Network and Adjoint Method, etc). During the graduate student period in Sun Yat-sen University, I designed, optimized and demonstrated several novel passive photonic devices with numerical optimization methods, including grating couplers, interlayer coupler, longpass filters. 
 
 - High-speed InP/InGaAs Photodetectors; Measurement Automation. 
 
-Sun Yat-sen University, Guangzhou, P.R. China    Ph.D. Candidate, 2014-2016
+Sun Yat-sen University, Guangzhou, P.R. China　　Ph.D. Candidate, 2014-2016
 
 　　High-speed photodetectors are optoelectronic devices providing wideband photoelectric conversion. During the graduate student period in Sun Yat-sen University, I designed a theoretically 135GHz bandwidth (in equivalent circuits) InP/InGaAs traveling-wave photodetectors with uni-traveling carrier epitaxial layers designs and fabricated the devices in cleanroom. I also built an automatic experimental setup with LabVIEW and MATLAB for frequency domain measurement of photodetectors, including piezo-motor optical fiber stage, Keysight network analyzer, RF spectrum analyzer and tunable laser sources. 
 
