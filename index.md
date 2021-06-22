@@ -1,24 +1,22 @@
-## Pengfei Xu Curriculum Vitae 
+## Pengfei Xu C.V.
 
 xupengf(at)pku.edu.cn
-
-Birth Date 1992.11.11
+<br>Birth Date 1992.11.11
 
 Homepage: xupengf1992.github.io
-
-Google Scholar: https://scholar.google.co.jp/citations?user=HXASs5oAAAAJ 
-
-Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_Pengfei_Xu
+<br>Google Scholar: <u>https://scholar.google.co.jp/citations?user=HXASs5oAAAAJ</u> 
+<br>Researchgate: <u>https://www.researchgate.net/scientific-contributions/2071547977_Pengfei_Xu</u>
 
 
 ## Profile 
 
-| Pengfei Xu, Postdoctoral Fellow in Peking University, is a highly self-motivated researcher with demonstrated research expertise in silicon photonic computing system architectures; high-speed optical transceiver chips; optimization algorithm and programming; photonic and optoelectronic device simulation, fabrication and testing.    |
-| :-- |
 ||
+| :-- |
+|Pengfei Xu, Postdoctoral Fellow in Peking University, is a highly self-motivated researcher with demonstrated research expertise in silicon photonic computing system architectures; high-speed optical transceiver chips; optimization algorithm and programming; photonic and optoelectronic device simulation, fabrication and testing.|
 
-|Research Field| • Silicon Photonic Computing System Architectures <br>• High Speed Optical Transceivers <br>• Computational Design for Photonic Devices• High Speed InP/InGaAs Photodetectors|
+|||
 | :-: | :-- |
+|Research Field| • Silicon Photonic Computing System Architectures <br>• High Speed Optical Transceivers <br>• Computational Design for Photonic Devices• High Speed InP/InGaAs Photodetectors|
 |Silicon Photonic System Design with EDA Tools|• Photonic Matrix Computing Chip Design. <br>• High Speed Optical Transceiver Chip Design <br>• Silicon photonic Chip Layout Design with Foundry PDK. <br>• Luceda/Interconnects for Circuit-level Simulations.|
 |Optical/RF Wave Simulations|• Maxwell's Equation Solvers: Finite-Difference Time-Domain (FDTD), Eigenmode Expansion (EME), Finite Element Method (FEM). <br>• Bloch-mode Analysis and Photonic Crystals.<br>• Optimization Packages: Genetic Algorithm, Artificial Neuron Network, Adjoint Method, Simulated Annealing, etc.|
 |Computer and Programming |• Measurement Automation: SCPI Programming via VISA Interface in Python, MATLAB and LabVIEW Environments. <br>• Commercial Software: LaTeX, Adobe Series, MATLAB, Lumerical, Mathematica, ANSYS and COMSOL.<br>• Artificial Intelligence: TensorFlow, MXNET Framework in Python Virtual Environments|
