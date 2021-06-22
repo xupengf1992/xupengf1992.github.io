@@ -1,6 +1,6 @@
 ## Pengfei Xu C.V.
 
-xupengf(at)pku.edu.cn
+xupengf (at) pku.edu.cn
 <br>Birth Date 1992.11.11
 
 Homepage: <u>xupengf1992.github.io</u> 
@@ -50,7 +50,9 @@ Homepage: <u>xupengf1992.github.io</u>
 2010.9 - 2014.6  
 - Sun Yat-sen University, B.S.
 - Major: Material Physics
-
+　
+　
+ 
 ## Research Experiences
 
 ### Silicon Photonic Computing System Architecture; Optical Transceivers. 
@@ -72,6 +74,8 @@ Sun Yat-sen University, Guangzhou, P.R. China　　Ph.D. Candidate, 2016-2019
 Sun Yat-sen University, Guangzhou, P.R. China　　Ph.D. Candidate, 2014-2016
 
 　　High-speed photodetectors are optoelectronic devices providing wideband photoelectric conversion. During the graduate student period in Sun Yat-sen University, I designed a theoretically 135GHz bandwidth (in equivalent circuits) InP/InGaAs traveling-wave photodetectors with uni-traveling carrier epitaxial layers designs and fabricated the devices in cleanroom. I also built an automatic experimental setup with LabVIEW and MATLAB for frequency domain measurement of photodetectors, including piezo-motor optical fiber stage, Keysight network analyzer, RF spectrum analyzer and tunable laser sources. 
+　
+　
 
 ## Selected Publications
 
