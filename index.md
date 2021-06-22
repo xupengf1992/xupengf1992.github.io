@@ -4,8 +4,11 @@ xupengf(at)pku.edu.cn
 Birth Date 1992.11.11
 
 Homepage: xupengf1992.github.io
-Google Scholar: https://scholar.google.co.jp/citations?user=HXASs5oAAAAJ&nbsp; 
-Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_Pengfei_Xu&nbsp; 
+
+Google Scholar: https://scholar.google.co.jp/citations?user=HXASs5oAAAAJ 
+
+Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_Pengfei_Xu
+
 
 ## Profile 
 
@@ -13,21 +16,21 @@ Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_P
 | :-- |
 ||
 
-|Research Field| • Silicon Photonic Computing System Architectures <br>• High Speed Optical Transceivers <br>• Computational Design for Photonic Devices• High Speed InP/InGaAs Photodetectors  |
+|Research Field| • Silicon Photonic Computing System Architectures <br>• High Speed Optical Transceivers <br>• Computational Design for Photonic Devices• High Speed InP/InGaAs Photodetectors|
 | :-: | :-- |
 |Silicon Photonic System Design with EDA Tools|• Photonic Matrix Computing Chip Design. <br>• High Speed Optical Transceiver Chip Design <br>• Silicon photonic Chip Layout Design with Foundry PDK. <br>• Luceda/Interconnects for Circuit-level Simulations.|
-|Optical/RF Wave Simulations|• Maxwell's Equation Solvers: Finite-Difference Time-Domain (FDTD), Eigenmode Expansion (EME), Finite Element Method (FEM). <br>• Bloch-mode Analysis and Photonic Crystals.<br>• Optimization Packages: Genetic Algorithm, Artificial Neuron Network, Adjoint Method, Simulated Annealing, etc. |
-|Computer and Programming |• Measurement Automation: SCPI Programming via VISA Interface in Python, MATLAB and LabVIEW Environments. <br>• Commercial Software: LaTeX, Adobe Series, MATLAB, Lumerical, Mathematica, ANSYS and COMSOL.<br>• Artificial Intelligence: TensorFlow, MXNET Framework in Python Virtual Environments   |
-|Photonic Chip Fabrication and Testing  |• Cleanroom Instruments: SEM, EBL, ICP-CVD, RIE, EBE, etc. <br>• Optical & RF Testing: Oscilloscope, Network Analyzer, Spectrum Analyzer,  Probe Station, etc.  |
-|Language|• English, Mandarin, Cantonese, Japanese. |
+|Optical/RF Wave Simulations|• Maxwell's Equation Solvers: Finite-Difference Time-Domain (FDTD), Eigenmode Expansion (EME), Finite Element Method (FEM). <br>• Bloch-mode Analysis and Photonic Crystals.<br>• Optimization Packages: Genetic Algorithm, Artificial Neuron Network, Adjoint Method, Simulated Annealing, etc.|
+|Computer and Programming |• Measurement Automation: SCPI Programming via VISA Interface in Python, MATLAB and LabVIEW Environments. <br>• Commercial Software: LaTeX, Adobe Series, MATLAB, Lumerical, Mathematica, ANSYS and COMSOL.<br>• Artificial Intelligence: TensorFlow, MXNET Framework in Python Virtual Environments|
+|Photonic Chip Fabrication and Testing  |• Cleanroom Instruments: SEM, EBL, ICP-CVD, RIE, EBE, etc. <br>• Optical & RF Testing: Oscilloscope, Network Analyzer, Spectrum Analyzer,  Probe Station, etc.|
+|Language|• English, Mandarin, Cantonese, Japanese.|
 
     
 
 ## Research Project Participations
 
-1.Peking University. National Natural Science Foundation of China, ldquo;Silicon Photonic Chip System for Ultra-high-speed Matrix Multiplicationrdquo; 62035001, 2021-2025.
-2.Sun Yat-sen University. The National Key Research and Development Program of China ldquo;Research on High Performance Passive Optoelectronic Materials and Devicesrdquo; 2016YFB0402503, 2016-2019.
-3.Sun Yat-sen University. National Basic Research Program of China ldquo;Fundamental Research on Microwave Photonic Devices and Integrated Systems for Broadband Ubiquitous Accessrdquo; 2012CB315700, 2012-2017.
+1.Peking University. National Natural Science Foundation of China, "Silicon Photonic Chip System for Ultra-high-speed Matrix Multiplication" 62035001, 2021-2025.
+2.Sun Yat-sen University. The National Key Research and Development Program of China " Research on High Performance Passive Optoelectronic Materials and Devices" 2016YFB0402503, 2016-2019.
+3.Sun Yat-sen University. National Basic Research Program of China "Fundamental Research on Microwave Photonic Devices and Integrated Systems for Broadband Ubiquitous Access" 2012CB315700, 2012-2017.
 
 ## Education 
 
@@ -53,7 +56,7 @@ Postdoctoral Fellow, 2019-2021
 
 With the continuous increase of data transmission capacity in the big data era, silicon photonics has become one of the mainstream solutions in data centers and telecoms. It also expedites the development of optical computing co-processors, lidars, biosensors, optical gyroscopes and so on.Since electronic processors are meeting their limitations in computing power and energy efficiency, silicon photonics is becoming a promising platform for optical computing, especially in large scale matrix computation. By exploiting the outstanding properties of light, like wideband, high speed, low latency and low power consumption, silicon photonics is a promising alternative for breaking through the 
 existing von Neumann architectures bottlenecks in large scale matrix computations applications, such as artificial neural network, combinational optimization, Fourier transform, compressed sensing, and quantum information processing.
-During the postdoctoral period in Peking University, I assisted the advisor Prof. Zhou for applying the key project of the National Natural Science Foundation of China &quot;Silicon photonic chip system for ultra-high-speed matrix multiplicationrdquo; (approved). And I also proposed a high-precision scheme for unitary matrix-vector multiplication, and published several review articles for discuss and outlook the future of silicon photonic computing.
+During the postdoctoral period in Peking University, I assisted the advisor Prof. Zhou for applying the key project of the National Natural Science Foundation of China "Silicon photonic chip system for ultra-high-speed matrix multiplication" (approved). And I also proposed a high-precision scheme for unitary matrix-vector multiplication, and published several review articles for discuss and outlook the future of silicon photonic computing.
 In the research of optical transceivers, I participated in the design of high-speed optical transceiver chips, used the EDA tools to build the 400Gb/s DR8/FR8 and 400Gb/s PDM2WDM-QPSK optical transceiver chip layout. And the optical transceiver chips are finally tape-out in a Singapore foundry with 180nm MPW process. 
 
 **Computational Design for Photonic Devices. 
@@ -68,8 +71,7 @@ In photonic integrated circuits and devices, computational design is becoming at
 Sun Yat-sen University, Guangzhou, P.R. China
 Ph.D. Candidate, 2014-2016
 
-High-speed photodetectors are optoelectronic devices providing wideband photoelectric 
-conversion. During the graduate student period in Sun Yat-sen University, I designed a theoretically 135GHz bandwidth (in equivalent circuits) InP/InGaAs traveling-wave photodetectors with uni-traveling carrier epitaxial layers designs and fabricated the devices in cleanroom. I also built an automatic experimental setup with LabVIEW and MATLAB for frequency domain measurement of photodetectors, including piezo-motor optical fiber stage, Keysight network analyzer, RF spectrum analyzer and tunable laser sources. 
+High-speed photodetectors are optoelectronic devices providing wideband photoelectric conversion. During the graduate student period in Sun Yat-sen University, I designed a theoretically 135GHz bandwidth (in equivalent circuits) InP/InGaAs traveling-wave photodetectors with uni-traveling carrier epitaxial layers designs and fabricated the devices in cleanroom. I also built an automatic experimental setup with LabVIEW and MATLAB for frequency domain measurement of photodetectors, including piezo-motor optical fiber stage, Keysight network analyzer, RF spectrum analyzer and tunable laser sources. 
 
 ## Selected Publications
 
