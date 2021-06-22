@@ -12,7 +12,7 @@ Homepage: xupengf1992.github.io
 
 ||
 | :-- |
-|Pengfei Xu, Postdoctoral Fellow in Peking University, is a highly self-motivated researcher with demonstrated research expertise in silicon photonic computing system architectures; high-speed optical transceiver chips; optimization algorithm and programming; photonic and optoelectronic device simulation, fabrication and testing.|
+|　　Pengfei Xu, Postdoctoral Fellow in Peking University, is a highly self-motivated researcher with demonstrated research expertise in silicon photonic computing system architectures; high-speed optical transceiver chips; optimization algorithm and programming; photonic and optoelectronic device simulation, fabrication and testing.|
 
 |||
 | :-: | :-- |
@@ -58,10 +58,8 @@ Homepage: xupengf1992.github.io
 Peking University, Beijing, P.R. China　　Postdoctoral Fellow, 2019-2021
 
 　　With the continuous increase of data transmission capacity in the big data era, silicon photonics has become one of the mainstream solutions in data centers and telecoms. It also expedites the development of optical computing co-processors, lidars, biosensors, optical gyroscopes and so on.Since electronic processors are meeting their limitations in computing power and energy efficiency, silicon photonics is becoming a promising platform for optical computing, especially in large scale matrix computation. By exploiting the outstanding properties of light, like wideband, high speed, low latency and low power consumption, silicon photonics is a promising alternative for breaking through the existing von Neumann architectures bottlenecks in large scale matrix computations applications, such as artificial neural network, combinational optimization, Fourier transform, compressed sensing, and quantum information processing.
-
-　　During the postdoctoral period in Peking University, I assisted the advisor Prof. Zhou for applying the key project of the National Natural Science Foundation of China "Silicon photonic chip system for ultra-high-speed matrix multiplication" (approved). And I also proposed a high-precision scheme for unitary matrix-vector multiplication, and published several review articles for discuss and outlook the future of silicon photonic computing.
-
-　　In the research of optical transceivers, I participated in the design of high-speed optical transceiver chips, used the EDA tools to build the 400Gb/s DR8/FR8 and 400Gb/s PDM2WDM-QPSK optical transceiver chip layout. And the optical transceiver chips are finally tape-out in a Singapore foundry with 180nm MPW process. 
+<br>　　During the postdoctoral period in Peking University, I assisted the advisor Prof. Zhou for applying the key project of the National Natural Science Foundation of China "Silicon photonic chip system for ultra-high-speed matrix multiplication" (approved). And I also proposed a high-precision scheme for unitary matrix-vector multiplication, and published several review articles for discuss and outlook the future of silicon photonic computing.
+<br>　　In the research of optical transceivers, I participated in the design of high-speed optical transceiver chips, used the EDA tools to build the 400Gb/s DR8/FR8 and 400Gb/s PDM2WDM-QPSK optical transceiver chip layout. And the optical transceiver chips are finally tape-out in a Singapore foundry with 180nm MPW process. 
 
 　
  　
