@@ -55,7 +55,7 @@ Researchgate: https://www.researchgate.net/scientific-contributions/2071547977_P
 
 ## Research Experiences
 
-- Silicon Photonic Computing System Architecture; Optical Transceivers. 
+### Silicon Photonic Computing System Architecture; Optical Transceivers. 
 
 Peking University, Beijing, P.R. China　　Postdoctoral Fellow, 2019-2021
 
@@ -67,7 +67,7 @@ Peking University, Beijing, P.R. China　　Postdoctoral Fellow, 2019-2021
 
 　
  　
-- Computational Design for Photonic Devices.
+### Computational Design for Photonic Devices.
 
 Sun Yat-sen University, Guangzhou, P.R. China　　Ph.D. Candidate, 2016-2019
 
@@ -75,7 +75,7 @@ Sun Yat-sen University, Guangzhou, P.R. China　　Ph.D. Candidate, 2016-2019
 
 　
  　
-- High-speed InP/InGaAs Photodetectors; Measurement Automation. 
+### High-speed InP/InGaAs Photodetectors; Measurement Automation. 
 
 Sun Yat-sen University, Guangzhou, P.R. China　　Ph.D. Candidate, 2014-2016
 
