@@ -79,11 +79,11 @@ Sun Yat-sen University, Guangzhou, P.R. China
 
 ## Selected Publications
 
-1. Pengfei Xu, Zhiping Zhou, ldquo;Silicon photonics for Accelerating Matrix Computationrdquo;, to be published.
+1. Pengfei Xu, Zhiping Zhou, Silicon photonics for Accelerating Matrix Computation, to be published.
 
 2. Zhiping Zhou, Pengfei Xu*, Xiaowen Dong, Silicon Photonic Computing (invited), Chinese Journal of Lasers, 2020, 47(6): 0600001.
 
-3. Pengfei Xu, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, and Siyuan Yu, SiNxndash;Si Interlayer Coupler Using a Gradient Index Metamaterial, Optics Letters, 2019, 44(5): 1230-1233.
+3. Pengfei Xu, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, and Siyuan Yu, SiNx-Si Interlayer Coupler Using a Gradient Index Metamaterial, Optics Letters, 2019, 44(5): 1230-1233.
 
 4. Jian Jian, Pengfei Xu, Hui Chen*, Mingbo He, Zeru Wu, Lidan Zhou, Lin Liu, Chunchuan Yang, and Siyuan Yu, High-efficiency Hybrid Amorphous Silicon Grating Couplers for Sub-micron-sized Lithium Niobate Waveguides, Optics Express, 2018, 26(23): 29651-29658.
 
@@ -93,9 +93,7 @@ Sun Yat-sen University, Guangzhou, P.R. China
 
 1. Pengfei Xu*, Zhiping Zhou, Silicon Photonic Computing, The 4th Conference on Micro-nano Optical Technology and Application, Chengdu, P.R. China, 2020.09.26-09.28. (Keynote Presentation)
 
-2. Pengfei Xu, Yanfeng Zhang*, Yujie Chen, and Siyuan Yu, Robust TE0 + TE1 Waveguide 
-Crossing, Conference on Lasers and Electro-Optics/Pacific Rim 2018, Hong Kong, P.R. China, 
-2018.07.29-08.03. (Poster)
+2. Pengfei Xu, Yanfeng Zhang*, Yujie Chen, and Siyuan Yu, Robust TE0 + TE1 Waveguide Crossing, Conference on Lasers and Electro-Optics/Pacific Rim 2018, Hong Kong, P.R. China, 2018.07.29-08.03. (Poster)
 
 3. Pengfei Xu, Yanfeng Zhang*, Zengkai Shao, Chunchuan Yang, Lin Liu, Yujie Chen, and Siyuan Yu, 5×5 μm2 Compact Waveguide Crossing Optimized by Genetic Algorithm, Asia Communications and Photonics Conference 2017, Guangzhou, P.R. China, 2017.11.10-11.13. (Oral Presentation)
 
