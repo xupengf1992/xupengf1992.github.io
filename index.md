@@ -106,7 +106,7 @@ Homepage: <u>xupengf1992.github.io</u>
 6. Pengfei Xu, Yujie Chen*, Jie Liu, Yanfeng Zhang, Guoxuan Zhu, Qingsheng Xiao, Bingchi Liu, Hui Chen, and Siyuan Yu. Design of Travelling-wave Photodetectors Impedance-matched over 135-GHz Bandwidth, Asia Communications and Photonics Conference 2015, Hong Kong, 2015/ 11.19ndash;23. 
 (Oral Presentation)
 
-## AWARDS
+## Awards
 
 1. Chinese Journal of Lasers: Chief Editor's Recommendation Award, China Laser Press, 2020. 
 
