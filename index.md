@@ -83,11 +83,13 @@ Homepage: <u>xupengf1992.github.io</u>
 
 2. Zhiping Zhou, Pengfei Xu*, Xiaowen Dong, Silicon Photonic Computing (invited), Chinese Journal of Lasers, 2020, 47(6): 0600001.
 
-3. Pengfei Xu, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, and Siyuan Yu, SiNx-Si Interlayer Coupler Using a Gradient Index Metamaterial, Optics Letters, 2019, 44(5): 1230-1233.
+3. Pengfei Xu, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, Siyuan Yu, Scaling And Cascading Compact Metamaterials Photonic Waveguide Filter Blocks, Optics Letters, 2020, 45(14) : 4072-4075.
 
-4. Jian Jian, Pengfei Xu, Hui Chen*, Mingbo He, Zeru Wu, Lidan Zhou, Lin Liu, Chunchuan Yang, and Siyuan Yu, High-efficiency Hybrid Amorphous Silicon Grating Couplers for Sub-micron-sized Lithium Niobate Waveguides, Optics Express, 2018, 26(23): 29651-29658.
+4. Pengfei Xu, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, and Siyuan Yu, SiNx-Si Interlayer Coupler Using a Gradient Index Metamaterial, Optics Letters, 2019, 44(5): 1230-1233.
 
-5. Pengfei Xu, Yanfeng Zhang*, Zengkai Shao, Lin Liu, Lidan Zhou, Chunchuan Yang, Yujie Chen, and Siyuan Yu, High-efficiency Wideband SiNx-on-SOI Grating Coupler with Low Fabrication Complexity, Optics Letters, 2017, 42(17): 3391-3394.
+5. Jian Jian, Pengfei Xu, Hui Chen*, Mingbo He, Zeru Wu, Lidan Zhou, Lin Liu, Chunchuan Yang, and Siyuan Yu, High-efficiency Hybrid Amorphous Silicon Grating Couplers for Sub-micron-sized Lithium Niobate Waveguides, Optics Express, 2018, 26(23): 29651-29658.
+
+6. Pengfei Xu, Yanfeng Zhang*, Zengkai Shao, Lin Liu, Lidan Zhou, Chunchuan Yang, Yujie Chen, and Siyuan Yu, High-efficiency Wideband SiNx-on-SOI Grating Coupler with Low Fabrication Complexity, Optics Letters, 2017, 42(17): 3391-3394.
 
 ## Conference Presentations
 
@@ -103,5 +105,11 @@ Homepage: <u>xupengf1992.github.io</u>
 
 6. Pengfei Xu, Yujie Chen*, Jie Liu, Yanfeng Zhang, Guoxuan Zhu, Qingsheng Xiao, Bingchi Liu, Hui Chen, and Siyuan Yu. Design of Travelling-wave Photodetectors Impedance-matched over 135-GHz Bandwidth, Asia Communications and Photonics Conference 2015, Hong Kong, 2015/ 11.19ndash;23. 
 (Oral Presentation)
+
+## AWARDS
+
+1. Chinese Journal of Lasers: Chief Editor's Recommendation Award, China Laser Press, 2020. 
+
+2. Scholarship for Outstanding Students. Sun Yat-sen University, 2015-2019.
 
 
