@@ -130,12 +130,12 @@ Homepage: <u>xupengf1992.github.io</u>
 
 2. Scholarship for Outstanding Students. Sun Yat-sen University, 2015-2019. 
 
-3. Outstanding Graduation Thesis of Sun Yat-sen University, 2019.
+3. Outstanding Graduation Thesis. Sun Yat-sen University, 2019.
 
 ## Professional Activities
 
 1. Technical Program Committee Member. The 2nd Photonic Integrated Chip Forum and Silicon Photonics Technology and Application Seminar (PIC2021), Chongqing, P.R. China, 2021.5.14-18.
 
-2. Student Member of The Optical Society (OSA), 2014-2019. 
+2. Student Member. The Optical Society (OSA), 2014-2019. 
 
 
