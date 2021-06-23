@@ -83,6 +83,7 @@ Homepage: <u>xupengf1992.github.io</u>
 4. **Pengfei Xu**, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, Siyuan Yu, Scaling and Cascading Compact Metamaterials Photonic Waveguide Filter Blocks, Optics Letters, 2020, 45(14): 4072-4075.
 
 5. **Pengfei Xu**, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, and Siyuan Yu, SiNx–Si Interlayer Coupler Using a Gradient Index Metamaterial, Optics Letters, 2019, 44(5): 1230-1233.
+
 6. Zhiping Zhou, Fenghe Yang, Ruixuan Chen, Kejian Zhu, **Pengfei Xu**, Pengfei Sun, Silicon photonics-a converging point of microelectronics and optoelectronics, Micro/nano Electronics Intellelligent Manufacturing 2019, 1(3): 12-23.
 
 7. Jian Jian, **Pengfei Xu**, Hui Chen*, Mingbo He, Zeru Wu, Lidan Zhou, Lin Liu, Chunchuan Yang, and Siyuan Yu, High-efficiency Hybrid Amorphous Silicon Grating Couplers for Sub-micron-sized Lithium Niobate Waveguides, Optics Express, 2018, 26(23): 29651-29658.
