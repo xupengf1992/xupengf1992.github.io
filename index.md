@@ -103,7 +103,7 @@ Homepage: <u>xupengf1992.github.io</u>
 
 5. Pengfei Xu, Yujie Chen*, Zengkai Shao, Yanfeng Zhang, Tianyou Zhang, Zeru Wu, Chunchuan Yang, Lin Liu, Lidan Zhou, Hui Chen, Jie Liu, and Siyuan Yu, Hybrid Integrated Velocity Matched Travelling-wave InP/InGaAs Photodetectors with Silicon Nitride Waveguides, Asia Communications and Photonics Conference 2016, Wuhan, P.R. China, 2016.11.2-11.5. (Oral Presentation)
 
-6. Pengfei Xu, Yujie Chen*, Jie Liu, Yanfeng Zhang, Guoxuan Zhu, Qingsheng Xiao, Bingchi Liu, Hui Chen, and Siyuan Yu. Design of Travelling-wave Photodetectors Impedance-matched over 135-GHz Bandwidth, Asia Communications and Photonics Conference 2015, Hong Kong, 2015/ 11.19ndash;23. 
+6. Pengfei Xu, Yujie Chen*, Jie Liu, Yanfeng Zhang, Guoxuan Zhu, Qingsheng Xiao, Bingchi Liu, Hui Chen, and Siyuan Yu. Design of Travelling-wave Photodetectors Impedance-matched over 135-GHz Bandwidth, Asia Communications and Photonics Conference 2015, Hong Kong, P.R. China, 2015.11.19-23. 
 (Oral Presentation)
 
 ## Awards
