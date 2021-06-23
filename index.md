@@ -15,7 +15,7 @@ Homepage: <u>xupengf1992.github.io</u>
 | :-: | :-- |
 |Research Field| • Silicon Photonic Computing System Architectures <br>• High Speed Optical Transceivers <br>• Computational Design for Photonic Devices<br>• High Speed InP/InGaAs Photodetectors|
 |Silicon Photonic System Design with EDA Tools|• Photonic Matrix Computing Chip Design. <br>• High Speed Optical Transceiver Chip Design <br>• Silicon photonic Chip Layout Design with Foundry PDK. <br>• Luceda/Interconnects for Circuit-level Simulations.|
-|Optical/RF Wave Simulations|• Maxwell's Equation Solvers: Finite-Difference Time-Domain (FDTD), Eigenmode Expansion (EME), Finite Element Method (FEM). <br>• Bloch-mode Analysis and Photonic Crystals.<br>• Optimization Packages: Genetic Algorithm, Artificial Neuron Network, Adjoint Method, Simulated Annealing, etc.|
+|Optical/RF Wave Simulations|• Maxwell's Equation Solvers: Finite-Difference Time-Domain (FDTD), Eigenmode Expansion (EME), Finite Element Method (FEM). <br>• Bloch-mode Analysis and Photonic Crystals.<br>• Optimization Packages: Genetic Algorithm, Artificial Neural Network, Adjoint Method, Simulated Annealing, etc.|
 |Computer and Programming |• Measurement Automation: SCPI Programming via VISA Interface in Python, MATLAB and LabVIEW Environments. <br>• Commercial Software: LaTeX, Adobe Series, MATLAB, Lumerical, Mathematica, ANSYS and COMSOL.<br>• Artificial Intelligence: TensorFlow, MXNET Framework in Python Virtual Environments|
 |Photonic Chip Fabrication and Testing  |• Cleanroom Instruments: SEM, EBL, ICP-CVD, RIE, EBE, etc. <br>• Optical & RF Testing: Oscilloscope, Network Analyzer, Spectrum Analyzer,  Probe Station, etc.|
 |Language|• English, Mandarin, Cantonese, Japanese.|
@@ -62,7 +62,7 @@ Homepage: <u>xupengf1992.github.io</u>
 <br>Sun Yat-sen University, Guangzhou, P.R. China
 <br>Ph.D. Candidate, 2016-2019
 
-　　In photonic integrated circuits and devices, computational design is becoming attractive and trendy, which can design desired high-performance photonic circuits and devices by combining the electromagnetic solvers (like FDTD, EME and FEM) and effective optimization algorithms (like Genetic Algorithm, Artificial Neuron Network and Adjoint Method, etc). During the graduate student period in Sun Yat-sen University, I designed, optimized and demonstrated several novel passive photonic devices with numerical optimization methods, including grating couplers, interlayer coupler, longpass filters. 
+　　In photonic integrated circuits and devices, computational design is becoming attractive and trendy, which can design desired high-performance photonic circuits and devices by combining the electromagnetic solvers (like FDTD, EME and FEM) and effective optimization algorithms (like Genetic Algorithm, Artificial Neural Network and Adjoint Method, etc). During the graduate student period in Sun Yat-sen University, I designed, optimized and demonstrated several novel passive photonic devices with numerical optimization methods, including grating couplers, interlayer coupler, longpass filters. 
 
 **High-speed InP/InGaAs Photodetectors; Measurement Automation.** 
 <br>Sun Yat-sen University, Guangzhou, P.R. China
