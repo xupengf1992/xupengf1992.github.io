@@ -9,7 +9,7 @@ Homepage: <u>xupengf1992.github.io</u>
 
 
 ## Profile 
-<br>　　Pengfei Xu, Postdoctoral Fellow in Peking University, is a highly self-motivated researcher with demonstrated research expertise in silicon photonic computing system architectures; high-speed optical transceiver chips; optimization algorithm and programming; photonic and optoelectronic device simulation, fabrication and testing.
+　　Pengfei Xu, Postdoctoral Fellow in Peking University, is a highly self-motivated researcher with demonstrated research expertise in silicon photonic computing system architectures; high-speed optical transceiver chips; optimization algorithm and programming; photonic and optoelectronic device simulation, fabrication and testing.
 
 |||
 | :-: | :-- |
@@ -47,8 +47,6 @@ Homepage: <u>xupengf1992.github.io</u>
 2010.9 - 2014.6  
 - Sun Yat-sen University, B.S.
 - Major: Material Physics
-　
-　
  
 ## Research Experiences
 
@@ -74,39 +72,69 @@ Homepage: <u>xupengf1992.github.io</u>
 　
 　
 
-## Selected Publications
+## Publications
 
-1. Pengfei Xu, Zhiping Zhou, Silicon photonics for Accelerating Matrix Computation, to be published.
+1. **Pengfei Xu**, Zhiping Zhou, Silicon photonics for Accelerating Matrix Computation, to be Published.
 
-2. Zhiping Zhou, Pengfei Xu*, Xiaowen Dong, Silicon Photonic Computing (invited), Chinese Journal of Lasers, 2020, 47(6): 0600001.
+2. **Pengfei Xu**, Zhiping Zhou. Silicon Photonic Computing, in: Zhiping Zhou. Silicon Photonics (2nd Edition), Beijing: Science Press, 2021.
 
-3. Pengfei Xu, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, Siyuan Yu, Scaling And Cascading Compact Metamaterials Photonic Waveguide Filter Blocks, Optics Letters, 2020, 45(14) : 4072-4075.
+3. Zhiping Zhou, **Pengfei Xu***, Xiaowen Dong, Silicon Photonic Computing (invited), Chinese Journal of Lasers, 2020, 47(6): 0600001. [Featured on Cover]
 
-4. Pengfei Xu, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, and Siyuan Yu, SiNx-Si Interlayer Coupler Using a Gradient Index Metamaterial, Optics Letters, 2019, 44(5): 1230-1233.
+4. **Pengfei Xu**, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, Siyuan Yu, Scaling and Cascading Compact Metamaterials Photonic Waveguide Filter Blocks, Optics Letters, 2020, 45(14): 4072-4075.
 
-5. Jian Jian, Pengfei Xu, Hui Chen*, Mingbo He, Zeru Wu, Lidan Zhou, Lin Liu, Chunchuan Yang, and Siyuan Yu, High-efficiency Hybrid Amorphous Silicon Grating Couplers for Sub-micron-sized Lithium Niobate Waveguides, Optics Express, 2018, 26(23): 29651-29658.
+5. **Pengfei Xu**, Yanfeng Zhang*, Shuailong Zhang, Yujie Chen, and Siyuan Yu, SiNx–Si Interlayer Coupler Using a Gradient Index Metamaterial, Optics Letters, 2019, 44(5): 1230-1233.
+6. Zhiping Zhou, Fenghe Yang, Ruixuan Chen, Kejian Zhu, **Pengfei Xu**, Pengfei Sun, Silicon photonics-a converging point of microelectronics and optoelectronics, Micro/nano Electronics Intellelligent Manufacturing 2019, 1(3): 12-23.
 
-6. Pengfei Xu, Yanfeng Zhang*, Zengkai Shao, Lin Liu, Lidan Zhou, Chunchuan Yang, Yujie Chen, and Siyuan Yu, High-efficiency Wideband SiNx-on-SOI Grating Coupler with Low Fabrication Complexity, Optics Letters, 2017, 42(17): 3391-3394.
+7. Jian Jian, **Pengfei Xu**, Hui Chen*, Mingbo He, Zeru Wu, Lidan Zhou, Lin Liu, Chunchuan Yang, and Siyuan Yu, High-efficiency Hybrid Amorphous Silicon Grating Couplers for Sub-micron-sized Lithium Niobate Waveguides, Optics Express, 2018, 26(23): 29651-29658.
+
+8. **Pengfei Xu**, Yanfeng Zhang*, Zengkai Shao, Lin Liu, Lidan Zhou, Chunchuan Yang, Yujie Chen, and Siyuan Yu, High-efficiency Wideband SiNx-on-SOI Grating Coupler with Low Fabrication Complexity, Optics Letters, 2017, 42(17): 3391-3394.
+
+9. Zeru Wu, Yujie Chen*, Tianyou Zhang, Zengkai Shao, Yuanhui Wen, **Pengfei Xu**, Yanfeng Zhang and Siyuan Yu, Design and Optimization of Optical Modulators Based on Graphene-on-Silicon Nitride Microring Resonators, Journal of Optics, 2017, 19(4): 045801.
+
+10. Chenxuan Yin, Yujie Chen, Xiaohui Jiang, Yanfeng Zhang, Zengkai Shao, **Pengfei Xu**, Siyuan Yu, Realizing Topological Edge States in a Silicon Nitride Microring-based Photonic Integrated Circuit, Optics Letters, 2016, 41(20): 4791-4794.
+
+11. Yanfeng Zhang, Yujie Chen*, Zhengqian Zhong, **Pengfei Xu**, Hui Chen, Siyuan Yu. Orbital angular momentum (OAM) Modes Routing in a Ring Fiber Based Directional Coupler, Optics Communications, 2015, 350: 160-164.
+
 
 ## Conference Presentations
 
-1. Pengfei Xu*, Zhiping Zhou, Silicon Photonic Computing, The 4th Conference on Micro-nano Optical Technology and Application, Chengdu, P.R. China, 2020.09.26-09.28. (Keynote Presentation)
+1. **Pengfei Xu***, Zhiping Zhou, Silicon photonics for Accelerating Matrix Computation, The 1st Silicon Photonics Innovation Forum, Lanzhou, P.R. China, 2021.08.04-08.09. (Invited)
 
-2. Pengfei Xu, Yanfeng Zhang*, Yujie Chen, and Siyuan Yu, Robust TE0 + TE1 Waveguide Crossing, Conference on Lasers and Electro-Optics/Pacific Rim 2018, Hong Kong, P.R. China, 2018.07.29-08.03. (Poster)
+2. **Pengfei Xu***, Zhiping Zhou, Silicon Photonic Computing, The 4th Conference on Micro-nano Optical Technology and Application, Chengdu, P.R. China, 2020.09.26-09.28. (Keynote Presentation)
 
-3. Pengfei Xu, Yanfeng Zhang*, Zengkai Shao, Chunchuan Yang, Lin Liu, Yujie Chen, and Siyuan Yu, 5×5 μm2 Compact Waveguide Crossing Optimized by Genetic Algorithm, Asia Communications and Photonics Conference 2017, Guangzhou, P.R. China, 2017.11.10-11.13. (Oral Presentation)
+3. **Pengfei Xu**, Yanfeng Zhang*, Yujie Chen, and Siyuan Yu, Robust TE0 + TE1 Waveguide Crossing, Conference on Lasers and Electro-Optics/Pacific Rim 2018, Hong Kong, P.R. China, 2018.07.29-08.03. (Poster)
 
-4. Pengfei Xu, Yanfeng Zhang*, Zengkai Shao, Lin Liu, Lidan Zhou, Chunchuan Yang, Yujie Chen, and Siyuan Yu, Fabrication-friendly High-efficiency Silicon Nitride Grating Coupler, Conference on Lasers and Electro-Optics/Pacific Rim 2017, Singapore, 2017.07.31-08.03. (Oral Presentation)
+4. **Pengfei Xu**, Yanfeng Zhang*, Zengkai Shao, Chunchuan Yang, Lin Liu, Yujie Chen, and Siyuan Yu, 5×5 μm2 Compact Waveguide Crossing Optimized by Genetic Algorithm, Asia Communications and Photonics Conference 2017, Guangzhou, P.R. China, 2017.11.10-11.13. (Oral Presentation)
 
-5. Pengfei Xu, Yujie Chen*, Zengkai Shao, Yanfeng Zhang, Tianyou Zhang, Zeru Wu, Chunchuan Yang, Lin Liu, Lidan Zhou, Hui Chen, Jie Liu, and Siyuan Yu, Hybrid Integrated Velocity Matched Travelling-wave InP/InGaAs Photodetectors with Silicon Nitride Waveguides, Asia Communications and Photonics Conference 2016, Wuhan, P.R. China, 2016.11.2-11.5. (Oral Presentation)
+5. **Pengfei Xu**, Yanfeng Zhang*, Zengkai Shao, Lin Liu, Lidan Zhou, Chunchuan Yang, Yujie Chen, and Siyuan Yu, Fabrication-friendly High-efficiency Silicon Nitride Grating Coupler, Conference on Lasers and Electro-Optics/Pacific Rim 2017, Singapore, 2017.07.31-08.03. (Oral Presentation)
 
-6. Pengfei Xu, Yujie Chen*, Jie Liu, Yanfeng Zhang, Guoxuan Zhu, Qingsheng Xiao, Bingchi Liu, Hui Chen, and Siyuan Yu. Design of Travelling-wave Photodetectors Impedance-matched over 135-GHz Bandwidth, Asia Communications and Photonics Conference 2015, Hong Kong, P.R. China, 2015.11.19-23. 
-(Oral Presentation)
+6. **Pengfei Xu**, Yujie Chen*, Zengkai Shao, Yanfeng Zhang, Tianyou Zhang, Zeru Wu, Chunchuan Yang, Lin Liu, Lidan Zhou, Hui Chen, Jie Liu, and Siyuan Yu, Hybrid Integrated Velocity Matched Travelling-wave InP/InGaAs Photodetectors with Silicon Nitride Waveguides, Asia Communications and Photonics Conference 2016, Wuhan, P.R. China, 2016.11.02-11.05. (Oral Presentation)
+
+7. **Pengfei Xu**, Yujie Chen*, Jie Liu, Yanfeng Zhang, Guoxuan Zhu, Qingsheng Xiao, Bingchi Liu, Hui Chen, and Siyuan Yu. Design of Travelling-wave Photodetectors Impedance-matched over 135-GHz Bandwidth, Asia Communications and Photonics Conference 2015, Hong Kong, P.R. China, 2015.11.19-11.23. (Oral Presentation)
+
+8. **Pengfei Xu**, Guoxuan Zhu, Yanfeng Zhang, Hui Chen, Yujie Chen, Siyuan Yu. An intra-cavity Spatial Light Modulator Laser for Desired Planar Laser Modes, PhotonIcs and Electromagnetics Research Symposium (PIERS) 2014, Guangzhou, P.R. China, 2014.08.25-08.28. (Oral Presentation).
+
+## Patents
+
+1. Zhiping Zhou, **Pengfei Xu**. Integrated Digital Coding Photonic Coherent Arithmetic Unit and its Method, CN202010664674.7 (Issued on 2020.09.15)
+
+2. Yanfeng Zhang, **Pengfei Xu**, Yujie Chen, Siyuan Yu. One Kind of Grating Coupler, CN201710084329.4 (Issued on 2019.07.12)
+
+3. Yujie Chen, **Pengfei Xu**, Siyuan Yu, Yanfeng Zhang, Jie Liu. Traveling Wave Photodetector Chip and its Fabrication Method, CN201510733750.4 (Issued on 2017.09.26)
+
 
 ## Awards
 
-1. Chinese Journal of Lasers: Chief Editor's Recommendation Award, China Laser Press, 2020. 
+1. Chinese Journal of Lasers: Editor's Choice Award, China Laser Press, 2020. 
 
-2. Scholarship for Outstanding Students. Sun Yat-sen University, 2015-2019.
+2. Scholarship for Outstanding Students. Sun Yat-sen University, 2015-2019. 
+
+3. Outstanding Graduation Thesis of Sun Yat-sen University, 2019.
+
+## Professional Activities
+
+1. Technical Program Committee Member. The 2nd Photonic Integrated Chip Forum and Silicon Photonics Technology and Application Seminar (PIC2021), Chongqing, P.R. China, 2021.5.14-18.
+
+2. Student Member of The Optical Society (OSA), 2014-2019. 
 
 
