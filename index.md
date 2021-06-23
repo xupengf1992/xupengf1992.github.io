@@ -9,10 +9,7 @@ Homepage: <u>xupengf1992.github.io</u>
 
 
 ## Profile 
-
-||
-| :-- |
-|　　Pengfei Xu, Postdoctoral Fellow in Peking University, is a highly self-motivated researcher with demonstrated research expertise in silicon photonic computing system architectures; high-speed optical transceiver chips; optimization algorithm and programming; photonic and optoelectronic device simulation, fabrication and testing.|
+<br>　　Pengfei Xu, Postdoctoral Fellow in Peking University, is a highly self-motivated researcher with demonstrated research expertise in silicon photonic computing system architectures; high-speed optical transceiver chips; optimization algorithm and programming; photonic and optoelectronic device simulation, fabrication and testing.
 
 |||
 | :-: | :-- |
