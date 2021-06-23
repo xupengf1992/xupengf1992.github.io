@@ -126,7 +126,7 @@ Homepage: <u>xupengf1992.github.io</u>
 
 ## Awards
 
-1. Chinese Journal of Lasers: Editor's Choice Award, China Laser Press, 2020. 
+1. Chinese Journal of Lasers: Editor-in-Chief Choice Award, China Laser Press, 2020. 
 
 2. Scholarship for Outstanding Students. Sun Yat-sen University, 2015-2019. 
 
